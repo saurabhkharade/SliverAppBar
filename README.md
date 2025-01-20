@@ -13,4 +13,4 @@ Integration with CustomScrollView: Works seamlessly with other slivers in a Cust
 ![Screenshot_20250120_154358](https://github.com/user-attachments/assets/ac00e04c-8805-4a15-b0be-754d98cdff14)
 
 
-
+new changes
